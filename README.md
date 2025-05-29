@@ -1,15 +1,10 @@
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🚀+AI/ML+Rebel🔥;Deep+Learning+Wizard🧙‍♂️;PyTorch+Fanatic💥;Open+Source+Hero💻;Tech+Disruptor⚡&font=Fira+Code&center=true&width=900&height=60&color=FF0080&vCenter=true&size=28" />
-</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Dancing Robot" width="180" />
 </p>
 
-# 👋 Yo, I'm **Adwai Mohan!** — The AI Maverick ⚡
-
-🎯 **B.Tech Trailblazer + Code Ninja + Future AI Overlord**
+# 👋 Yo, I'm **Adwai Mohan!** ⚡
 
 ---
 
@@ -24,7 +19,6 @@
 ## 🌍 Hit Me Up On The Web
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adwaimohan)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adwaimohan8@gmail.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adwaimohan) *(Add if you want!)*
 
 ---
 
