@@ -1,16 +1,14 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/banner.png" alt="Custom Banner" />
-</p>
+
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI/ML%20Enthusiast;Deep%20Learning%20Explorer;PyTorch%20and%20TensorFlow%20Fan;Open%20Source%20Contributor;Tech%20Innovator!&font=Fira%20Code&center=true&width=800&height=45&color=F7931E&vCenter=true&size=24">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI/ML%20Enthusiast;Deep%20Learning%20Explorer;PyTorch%20and%20Fan;Open%20Source%20Contributor;Tech%20Innovator!&font=Fira%20Code&center=true&width=800&height=45&color=F7931E&vCenter=true&size=24">
 </p>
 
 # 👋 Hi, I'm Adwai Mohan!
 
 💫 I'm a passionate **AI/ML enthusiast** and a **B.Tech student** focusing on:
 - 🤖 **Machine Learning & Deep Learning**
-- 🏗️ **Model Training & Optimization (PyTorch, TensorFlow)**
+- 🏗️ **Model Training & Optimization**
 - 📊 **Data Science and Analytics**
 - 🧠 **Agentic AI and Emerging Technologies**
 
