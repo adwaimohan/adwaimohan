@@ -1,26 +1,34 @@
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI/ML%20Enthusiast;Deep%20Learning%20Explorer;PyTorch%20and%20Fan;Open%20Source%20Contributor;Tech%20Innovator!&font=Fira%20Code&center=true&width=800&height=45&color=F7931E&vCenter=true&size=24">
+  <img src="https://readme-typing-svg.demolab.com/?lines=🚀+AI/ML+Rebel🔥;Deep+Learning+Wizard🧙‍♂️;PyTorch+Fanatic💥;Open+Source+Hero💻;Tech+Disruptor⚡&font=Fira+Code&center=true&width=900&height=60&color=FF0080&vCenter=true&size=28" />
 </p>
 
-# 👋 Hi, I'm Adwai Mohan!
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Dancing Robot" width="180" />
+</p>
 
-💫 I'm a passionate **AI/ML enthusiast** and a **B.Tech student** focusing on:
-- 🤖 **Machine Learning & Deep Learning**
-- 🏗️ **Model Training & Optimization**
-- 📊 **Data Science and Analytics**
-- 🧠 **Agentic AI and Emerging Technologies**
+# 👋 Yo, I'm **Adwai Mohan!** — The AI Maverick ⚡
+
+🎯 **B.Tech Trailblazer + Code Ninja + Future AI Overlord**
 
 ---
 
-## 🌐 Connect with Me
+## 💥 What I’m Up To:
+- 🤖 **Crafting AI & ML magic spells that make machines THINK**
+- ⚙️ **Training beastly deep learning models like a boss**
+- 📈 **Data science? I eat datasets for breakfast 🍳**
+- 🧠 **Agentic AI? Yeah, building the future one algorithm at a time**
+
+---
+
+## 🌍 Hit Me Up On The Web
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adwaimohan)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adwaimohan8@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adwaimohan8@gmail.com)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adwaimohan) *(Add if you want!)*
 
 ---
 
-## 💻 Tech Stack
+## 💻 My Mad Tech Arsenal
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
@@ -37,18 +45,21 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adwaimohan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=adwaimohan&theme=tokyonight&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adwaimohan&theme=tokyonight&hide_border=false&layout=compact)
+## 📈 GitHub Hustle  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adwaimohan&theme=radical&show_icons=true&count_private=true" width="45%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=adwaimohan&theme=radical" width="45%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adwaimohan&theme=radical&layout=compact" width="40%" />
+</p>
 
 ---
 
-### ✍️ Dev Quote of the Day
+### 🔥 Code Vibes of the Day  
+> *"Dream big, code bigger. The future is AI and you’re the wizard."*  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-
-
-
+**Wanna collab?** Let’s shake the AI world together 🌍💥
