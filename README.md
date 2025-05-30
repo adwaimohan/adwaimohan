@@ -1,28 +1,38 @@
 
-
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Dancing Robot" width="180" />
 </p>
 
-# 👋 Yo, I'm **Adwai Mohan!** ⚡
+```
+       ___       __       _______. _______  __       __   __    __  .__   __. 
+      /   \     |  |     /       ||   ____||  |     |  | |  |  |  | |  \ |  | 
+     /  ^  \    |  |    |   (----`|  |__   |  |     |  | |  |  |  | |   \|  | 
+    /  /_\  \   |  |     \   \    |   __|  |  |     |  | |  |  |  | |  . `  | 
+   /  _____  \  |  | .----)   |   |  |____ |  `----.|  | |  `--'  | |  |\   | 
+  /__/     \__\ |__| |_______/    |_______||_______||__|  \______/  |__| \__| 
+```
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=40&lines=Hi+I%27m+Adwai+Mohan!;Deep+Learning+Explorer;Code+Geek+%26+Problem+Solver;Let's+Build+AI+Together!" />
+</p>
 
 ---
 
 ## 💥 What I’m Up To:
-- 🤖 **Crafting AI & ML magic spells that make machines THINK**
-- ⚙️ **Training beastly deep learning models like a boss**
-- 📈 **Data science? I eat datasets for breakfast 🍳**
-- 🧠 **Agentic AI? Yeah, building the future one algorithm at a time**
+💻 Hacking away with **Python**, **PyTorch**, and **TensorFlow** to build models that (hopefully) won’t take over the world... yet.  
+🌱 Terminal's always open, fingers always typing — forever curious about the next big thing, from **GANs** to **transformers** to quantum shenanigans!  
+🚀 Ready to merge PRs, fix bugs, and break things (intentionally) to learn even more.  
+🔗 Let’s collab, break production (safely), and make something geek-worthy!  
 
 ---
 
-## 🌍 Hit Me Up On The Web
+## 🌍 Connect With Me Across the Multiverse
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adwaimohan)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adwaimohan8@gmail.com)  
 
 ---
 
-## 💻 My Mad Tech Arsenal
+## 🧰 My Geek Toolkit
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
@@ -51,9 +61,9 @@
 ---
 
 ### 🔥 Code Vibes of the Day  
-> *"Dream big, code bigger. The future is AI and you’re the wizard."*  
+> *"Dream big, code bigger. If it compiles on the first try, something’s wrong."*  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-**Wanna collab?** Let’s shake the AI world together 🌍💥
+🧙‍♂️ **Wanna collab?** Let’s conjure some code spells, break some neural networks, and push the boundaries of AI together. 🌌💻
