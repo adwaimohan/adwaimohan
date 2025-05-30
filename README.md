@@ -7,10 +7,10 @@
 ---
 
 ## 💥 What I’m Up To:
-💻 Hacking away with **Python**, **PyTorch**, and **TensorFlow** to build models that (hopefully) won’t take over the world... yet.  
-🌱 Terminal's always open, fingers always typing — forever curious about the next big thing, from **GANs** to **transformers** to quantum shenanigans!  
-🚀 Ready to merge PRs, fix bugs, and break things (intentionally) to learn even more.  
-🔗 Let’s collab, break production (safely), and make something geek-worthy!  
+💻 Crafting cool stuff with Python and machine learning — making computers do the heavy lifting while I sip coffee.
+🌱 Always got my terminal open, chasing that “aha!” moment, whether it’s cracking algorithms or building neat projects.
+🚀 Debugging like a boss and learning something new every day — because why not?
+🔗 Down to collab on anything Python, ML, or data structures & algorithms. Let’s build, break, and bounce ideas! 
 
 ---
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 🧰 My Geek Toolkit
+## 🧰 My Toolkit
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
