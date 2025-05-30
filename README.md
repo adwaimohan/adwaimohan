@@ -1,19 +1,7 @@
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Dancing Robot" width="180" />
-</p>
-
-```
-       ___       __       _______. _______  __       __   __    __  .__   __. 
-      /   \     |  |     /       ||   ____||  |     |  | |  |  |  | |  \ |  | 
-     /  ^  \    |  |    |   (----`|  |__   |  |     |  | |  |  |  | |   \|  | 
-    /  /_\  \   |  |     \   \    |   __|  |  |     |  | |  |  |  | |  . `  | 
-   /  _____  \  |  | .----)   |   |  |____ |  `----.|  | |  `--'  | |  |\   | 
-  /__/     \__\ |__| |_______/    |_______||_______||__|  \______/  |__| \__| 
-```
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=40&lines=Hi+I%27m+Adwai+Mohan!;Deep+Learning+Explorer;Code+Geek+%26+Problem+Solver;Let's+Build+AI+Together!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=40&lines=Hi+I%27m+Adwai+Mohan!;Tech+Explorer;Code+Geek+%26+Problem+Solver;Let's+Build+Things+Together!" />
 </p>
 
 ---
