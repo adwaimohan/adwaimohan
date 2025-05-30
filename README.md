@@ -55,7 +55,9 @@
 ---
 
 
-![Profile Views](https://github-readme-stats.vercel.app/api?username=adwaimohan&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide=prs&show=profile_views)
+![Profile Views](https://komarev.com/ghpvc/?username=adwaimohan)
+
+
 
 
 
