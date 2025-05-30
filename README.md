@@ -6,12 +6,13 @@
 
 ---
 
+```
 ## 💥 What I’m Up To:
-💻 Crafting cool stuff with Python and machine learning — making computers do the heavy lifting while I sip coffee.
+💻 Crafting cool stuff with Python and machine learning — making computers do the heavy lifting while I sip coffee. 
 🌱 Always got my terminal open, chasing that “aha!” moment, whether it’s cracking algorithms or building neat projects.
 🚀 Debugging like a boss and learning something new every day — because why not?
 🔗 Down to collab on anything Python, ML, or data structures & algorithms. Let’s build, break, and bounce ideas! 
-
+```
 ---
 
 ## 🌍 Connect With Me Across the Multiverse
