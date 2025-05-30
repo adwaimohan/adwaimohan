@@ -55,7 +55,8 @@
 ---
 
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=adwaimohan.adwaimohan)
+![Profile Views](https://github-readme-stats.vercel.app/api?username=adwaimohan&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide=prs&show=profile_views)
+
 
 
 🧙‍♂️ **Wanna collab?** Let’s conjure some code spells, break some neural networks, and push the boundaries of AI together. 🌌💻
